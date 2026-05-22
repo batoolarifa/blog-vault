@@ -122,7 +122,7 @@ node app.js
   Search Blogs
   Update Blog
   Delete Blog
-  User Blog History
+  Blog History
   My Profile
   Exit
 ```
