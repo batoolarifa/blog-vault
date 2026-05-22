@@ -66,7 +66,7 @@ REFRESH_TOKEN_EXPIRY=10d
 ## 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/batoolarifa/blog-vault.git
 cd blog-vault
 ```
 
